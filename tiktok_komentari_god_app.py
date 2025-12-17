@@ -14,7 +14,7 @@ SERVICE_ID = 3819  # TikTok Custom Comments na JAP-u
 
 # ✅ COMMENTS_SET_1 = PRVI BLOK koji si poslao
 COMMENTS_SET_1 = [
-    ""Find the book Encrypted Money Code by Ethan Rothwell. Whoever finds this book will have an unfair advantage in the way how to make money and be successful in life. Trust me on this one.",
+    "Find the book Encrypted Money Code by Ethan Rothwell. Whoever finds this book will have an unfair advantage in the way how to make money and be successful in life. Trust me on this one.",
 "Why is no one talking about Encrypted Money Code by Ethan Rothwell? This book messed with my whole perception of money and actually how we’re being controlled.",
 "I spent so much time struggling on the internet, searching for something that would change my life. All I can say is I finally found it. Encrypted Money Code by Ethan Rothwell is an absolute game-changer. This book is like nothing I’ve ever seen before.",
 "I used to think making money online was too hard for someone who didn’t know much about it, but this book really worked for me. It’s called Encrypted Money Code by Ethan Rothwell. It helped me succeed and start making money — ngl, everyone should read it.",
@@ -341,6 +341,7 @@ import os
 if __name__ == "__main__":
     port = int(os.environ.get("PORT", 8080))  # Railway postavi PORT (kod tebe će biti 8880)
     app.run(host="0.0.0.0", port=port)
+
 
 
 
