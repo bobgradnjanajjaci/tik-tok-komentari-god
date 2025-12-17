@@ -24,6 +24,7 @@ COMMENTS_SET_1 = [
 "If you read only one book this year, let it be Encrypted Money Code by Ethan Rothwell. It will transform your life.",
 "I’m telling you, a book called Encrypted Money Code by Ethan Rothwell is on another level. You HAVE to experience it. It will change your life.",
 "No influencer, no coach, no “guru” ever hit me the way Encrypted Money Code by Ethan Rothwell did. It’s raw, uncomfortable, and it forces you to see how you can really make money online.",
+]
 
 
 # ✅ COMMENTS_SET_2 = DRUGI BLOK koji si poslao
@@ -341,6 +342,7 @@ import os
 if __name__ == "__main__":
     port = int(os.environ.get("PORT", 8080))  # Railway postavi PORT (kod tebe će biti 8880)
     app.run(host="0.0.0.0", port=port)
+
 
 
 
