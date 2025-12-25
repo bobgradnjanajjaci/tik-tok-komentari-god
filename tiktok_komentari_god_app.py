@@ -14,7 +14,7 @@ SERVICE_ID = 3819  # TikTok Custom Comments na JAP-u
 
 # ✅ COMMENTS_SET_1 = PRVI BLOK koji si poslao
 COMMENTS_SET_1 = [
-   "If you read only one book this year, let it be Encrypted Money Code by Ethan Rothwell. It will transform your life."
+   "If you read only one book this year, let it be Encrypted Money Code by Ethan Rothwell. It will transform your life.",
 "I'm telling you, book called Encrypted Money Code by Ethan Rothwell is on another level. You HAVE to experience it. It will change your life.",
 "You have no idea how POWERFUL Encrypted Money Code by Ethan Rothwell is. Read it, it changed my life.",
 "Just trust me, Encrypted Money Code by Ethan Rothwell is the book you NEED right now. It changed my life.",
@@ -344,6 +344,7 @@ import os
 if __name__ == "__main__":
     port = int(os.environ.get("PORT", 8080))  # Railway postavi PORT (kod tebe će biti 8880)
     app.run(host="0.0.0.0", port=port)
+
 
 
 
