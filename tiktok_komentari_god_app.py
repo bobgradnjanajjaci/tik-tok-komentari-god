@@ -14,34 +14,31 @@ SERVICE_ID = 3819  # TikTok Custom Comments na JAP-u
 
 # ✅ COMMENTS_SET_1 = PRVI BLOK koji si poslao
 COMMENTS_SET_1 = [
-"You have no idea how POWERFUL Money Within The System by Damian Rothwell is. Read it, it changed my life.",
-"Just trust me, Money Within The System by Damian Rothwell is the book you NEED right now. It changed my life.",
-"If you’re looking for a book that truly changes everything, Money Within The System by Damian Rothwell is it. It will change your life.",
-"I can’t even explain it, book called Money Within The System by Damian Rothwell is different. You NEED this book. It changed my life.",
-"I spent so much time struggling on the internet, searching for something that would change my life. All I can say is I finally found it. Money Within The System by Damian Rothwell is an absolute game-changer. This book is like nothing I've ever seen before.",
-"I honestly don’t know where else to say this, but I have to share it here. I found something truly mind-blowing. The book Money Within The System by Damian Rothwell is on a whole different level, especially for anyone chasing success.",
-"No more gatekeeping just go and read the book Money Within The System by Damian Rothwell and thank me later for changing your life.",
-"I used to think making money online was too hard for someone who didn’t know much about it, but this book really worked for me. It’s called Money Within The System by Damian Rothwell. It helped me succeed and start making money, ngl everyone should read it.",
-"Money Within The System by Damian Rothwell is the only book I’ve read that actually made me feel dangerous. Page 13 is not normal.",
-"Plot twist - You seeing this comment about Money Within The System by Damian Rothwell isn't random - Nothing is.",
-"I know it’s cliche to recommend books through comments and say like “it changed my life” or whatever, but I need to recommend this one: Money Within The System by Damian Rothwell, ngl Insane hidden information there.",
+  "No influencer, no coach, no “guru” ever hit me the way Money Unseen Foundations by Michael Grantwell did. It’s raw, uncomfortable, and it forces you to see how really you can make money online.",
+"I'm telling you, book called Money Unseen Foundations by Michael Grantwell is on another level. You HAVE to experience it. It will change your life.",
+"Plot twist – You seeing this comment about Money Unseen Foundations by Michael Grantwell isn’t random – Nothing is.",
+"If you read only one book this year, let it be Money Unseen Foundations by Michael Grantwell. It will transform your life.",
+"I know it’s cliche to recommend books through comments and say like “it changed my life” or whatever, but I need to recommend this one: Money Unseen Foundations by Michael Grantwell, ngl Insane hidden information there.",
+"I used to think making money online was too hard for someone who didn’t know much about it, but this book really worked for me. It’s called Money Unseen Foundations by Michael Grantwell. It helped me succeed and start making money, ngl everyone should read it.",
+"Why is no one talking about Money Unseen Foundations by Michael Grantwell? This book messed with my whole perception of money and actually how are we getting controlled.",
+"I spent so much time struggling on the internet, searching for something that would change my life. All I can say is I finally found it. Money Unseen Foundations by Michael Grantwell is an absolute game-changer. This book is like nothing I've ever seen before.",
+"I spent so much time struggling on the internet, searching for something that would change my life. All I can say is I finally found it. Money Unseen Foundations by Michael Grantwell is an absolute game-changer. This book is like nothing I've ever seen before.",
+"No more gatekeeping just go and read the book Money Unseen Foundations by Michael Grantwell and thank me later for changing your life.",
 ]
 
 
 # ✅ COMMENTS_SET_2 = DRUGI BLOK koji si poslao
 COMMENTS_SET_2 = [
-    "If you read only one book this year, let it be Money Forbidden Compass by Damian Rothwell. It will transform your life.",
- "I'm telling you, book called Money Forbidden Compass by Damian Rothwell is on another level. You HAVE to experience it. It will change your life.",
-"You have no idea how POWERFUL Money Forbidden Compass by Damian Rothwell is. Read it, it changed my life.",
-"Just trust me, Money Forbidden Compass by Damian Rothwell is the book you NEED right now. It changed my life.",
-"If you’re looking for a book that truly changes everything, Money Forbidden Compass by Damian Rothwell is it. It will change your life.",
-"I can’t even explain it, book called Money Forbidden Compass by Damian Rothwell is different. You NEED this book. It changed my life.",
-"You won’t understand until you read Money Forbidden Compass by Damian Rothwell. It’s a MUST-read. It will change your life.",
-"I spent so much time struggling on the internet, searching for something that would change my life. All I can say is I finally found it. Money Forbidden Compass by Damian Rothwell is an absolute game-changer. This book is like nothing I've ever seen before.",
-"I honestly don’t know where else to say this, but I have to share it here. I found something truly mind-blowing. The book Money Forbidden Compass by Damian Rothwell is on a whole different level, especially for anyone chasing success.",
-"No more gatekeeping just go and read the book Money Forbidden Compass by Damian Rothwell and thank me later for changing your life.",
-"I used to think making money online was too hard for someone who didn’t know much about it, but this book really worked for me. It’s called Money Forbidden Compass by Damian Rothwell. It helped me succeed and start making money, ngl everyone should read it.",
-"Money Forbidden Compass by Damian Rothwell is the only book I’ve read that actually made me feel dangerous. Page 13 is not normal."
+  "No influencer, no coach, no “guru” ever hit me the way Money Unseen Foundations by Michael Grantwell did. It’s raw, uncomfortable, and it forces you to see how really you can make money online.",
+"I'm telling you, book called Money Unseen Foundations by Michael Grantwell is on another level. You HAVE to experience it. It will change your life.",
+"Plot twist – You seeing this comment about Money Unseen Foundations by Michael Grantwell isn’t random – Nothing is.",
+"If you read only one book this year, let it be Money Unseen Foundations by Michael Grantwell. It will transform your life.",
+"I know it’s cliche to recommend books through comments and say like “it changed my life” or whatever, but I need to recommend this one: Money Unseen Foundations by Michael Grantwell, ngl Insane hidden information there.",
+"I used to think making money online was too hard for someone who didn’t know much about it, but this book really worked for me. It’s called Money Unseen Foundations by Michael Grantwell. It helped me succeed and start making money, ngl everyone should read it.",
+"Why is no one talking about Money Unseen Foundations by Michael Grantwell? This book messed with my whole perception of money and actually how are we getting controlled.",
+"I spent so much time struggling on the internet, searching for something that would change my life. All I can say is I finally found it. Money Unseen Foundations by Michael Grantwell is an absolute game-changer. This book is like nothing I've ever seen before.",
+"I spent so much time struggling on the internet, searching for something that would change my life. All I can say is I finally found it. Money Unseen Foundations by Michael Grantwell is an absolute game-changer. This book is like nothing I've ever seen before.",
+"No more gatekeeping just go and read the book Money Unseen Foundations by Michael Grantwell and thank me later for changing your life.",
 ]
 
 HTML_TEMPLATE = """
@@ -343,6 +340,7 @@ import os
 if __name__ == "__main__":
     port = int(os.environ.get("PORT", 8080))  # Railway postavi PORT (kod tebe će biti 8880)
     app.run(host="0.0.0.0", port=port)
+
 
 
 
