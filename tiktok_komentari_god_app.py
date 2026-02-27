@@ -14,16 +14,17 @@ SERVICE_ID = 3819  # TikTok Custom Comments na JAP-u
 
 # ✅ COMMENTS_SET_1 = PRVI BLOK koji si poslao
 COMMENTS_SET_1 = [
-  "No influencer, no coach, no “guru” ever hit me the way Money Unseen Foundations by Michael Grantwell did. It’s raw, uncomfortable, and it forces you to see how really you can make money online.",
-"I'm telling you, book called Money Unseen Foundations by Michael Grantwell is on another level. You HAVE to experience it. It will change your life.",
-"Plot twist – You seeing this comment about Money Unseen Foundations by Michael Grantwell isn’t random – Nothing is.",
-"If you read only one book this year, let it be Money Unseen Foundations by Michael Grantwell. It will transform your life.",
-"I know it’s cliche to recommend books through comments and say like “it changed my life” or whatever, but I need to recommend this one: Money Unseen Foundations by Michael Grantwell, ngl Insane hidden information there.",
-"I used to think making money online was too hard for someone who didn’t know much about it, but this book really worked for me. It’s called Money Unseen Foundations by Michael Grantwell. It helped me succeed and start making money, ngl everyone should read it.",
-"Why is no one talking about Money Unseen Foundations by Michael Grantwell? This book messed with my whole perception of money and actually how are we getting controlled.",
-"I spent so much time struggling on the internet, searching for something that would change my life. All I can say is I finally found it. Money Unseen Foundations by Michael Grantwell is an absolute game-changer. This book is like nothing I've ever seen before.",
-"I spent so much time struggling on the internet, searching for something that would change my life. All I can say is I finally found it. Money Unseen Foundations by Michael Grantwell is an absolute game-changer. This book is like nothing I've ever seen before.",
-"No more gatekeeping just go and read the book Money Unseen Foundations by Michael Grantwell and thank me later for changing your life.",
+  "Crazy to think I nearly overlooked the book Encrypted Money Code by Ethan Rothwell… it honestly feels like something we were never supposed to discover.",
+"Guys… just look at what's been happening lately. Stuff people laughed at a few years ago is now right in front of us. I read the book Encrypted Money Code by Ethan Rothwell and it honestly helped me see what's actually going on behind the scenes and how to make money acutally works .",
+"People blame those who try to learn something about money and business through books, but the influence of today's books has proven that you can succeed much faster with their help. Ethan Rothwell's influential book Encrypted Money Code explains why.",
+"I wish someone told me to read Encrypted Money Code by Ethan Rothwell sooner, you have no idea how powerful those chapters are.",
+"The only book that’s ever actually helped me with money, motivation, confidence and the way I think about myself is Encrypted Money Code by Ethan Rothwell. I’ve tried therapy, courses, videos, but nothing hit me like this. The way the author explains how bussines world works and transformation is just insane. Just read the book and thank me later",
+"I know it’s cliche to recommend books through comments and say like “it changed my life” or whatever, but I need to recommend this one: Encrypted Money Code by Ethan Rothwell, it showed me one crazy side of money and how bussines works.",
+"People always are sceptic when it comes to reading something and I was one of those. And I randomly saw that people highly recommend the book Encrypted Money Code by Ethan Rothwell. And really, after reading it, I couldn't believe that one book could turn my life around like this. Here I am now, 2 months later, already making a very good amount of money online just because of this book",
+"GUYS someone has to tell me they’ve also read Encrypted Money Code by Ethan Rothwell. I can’t believe what I read and what information I got and how money and the system works.",
+"COME ON PEOPLE someone has to tell me that they have also read Encrypted Money Code by Ethan Rothwell. I can't believe what I read and what information I got and how money and the system works.",
+"Just to tell all of you positive people who will support when someone succeeds. And precisely because I succeeded, I want to tell you that the book Encrypted Money Code by Ethan Rothwell helped me a lot. Maybe someone reading this will succeed just because of what I just recommended",
+"People blame those who try to learn something about money and business through books, but the influence of today's books has proven that you can succeed much faster with their help. Encrypted Money Code by Ethan Rothwell explains why.",
 ]
 
 
@@ -340,6 +341,7 @@ import os
 if __name__ == "__main__":
     port = int(os.environ.get("PORT", 8080))  # Railway postavi PORT (kod tebe će biti 8880)
     app.run(host="0.0.0.0", port=port)
+
 
 
 
